@@ -1,0 +1,5 @@
+nombreCaso2,name,vname,job,vjob
+namevacio,name,,job,QA
+namenulo,name,null,job,QA
+name3letras,name,sol,job,QA
+sincamponame,,,job,QA

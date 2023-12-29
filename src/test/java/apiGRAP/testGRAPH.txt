@@ -1,0 +1,5 @@
+query {
+  character(id:<num>)
+  {gender,
+  name}
+  }
